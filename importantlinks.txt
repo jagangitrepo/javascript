@@ -1,0 +1,11 @@
+1. From 0 to 9: The Magic of Numbers in JavaScript
+https://www.codementor.io/johnnyb/the-magic-of-numbers-in-javascript-du1087lhb
+
+2. Online Js & html editor
+https://jsfiddle.net/
+
+3.Master the JavaScript Interview: What is a Promise?
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+
+4.Master the JavaScript Interview: What is Functional Programming?
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
