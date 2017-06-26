@@ -1,0 +1,5 @@
+ReactiveX Javascript => RxJS
+
+rxjs is usedd for asynchronous programming with observable streams.
+
+url : http://reactivex.io/
