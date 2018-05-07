@@ -1,3 +1,10 @@
 
 1. Differences between Shadow DOM and Virtual DOM
 https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom
+https://develoger.com/shadow-dom-virtual-dom-889bf78ce701
+
+2. Vue Comparison with Other Frameworks
+https://vuejs.org/v2/guide/comparison.html
+
+Vue.js and React both use Virtual DOM
+
